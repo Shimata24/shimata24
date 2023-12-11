@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #141414;
+    color: white;
+}
+
+header {
+    background-color: #141414;
+    padding: 10px 0;
+    border-bottom: 1px solid #222;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+.featured {
+    background: url('featured-image.jpg') no-repeat center center;
+    background-size: cover;
+    padding: 100px 50px;
+    text-align: center;
+}
+
+.content-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr); /* Update to 5 items per row */
+    gap: 15px;
+    padding: 20px;
+}
+
+.content-item {
+    background-color: #333;
+    padding: 10px; /* Adjust padding if needed */
+    text-align: center;
+}
+
+.content-item img {
+    width: 100%; /* Makes the image fit the container */
+    height: auto; /* Maintains the aspect ratio */
+    border-radius: 8px; /* Optional, for rounded corners */
+}
+
+footer {
+    background-color: #222;
+    padding: 20px;
+    text-align: center;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
