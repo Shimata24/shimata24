@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi there! 👋 I'm Jed Rafer
 
-<!--
-**Shimata24/shimata24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Information Technology Graduate
+💻 Aspiring IT Professional | Web Developer | IT Support
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a recent BS Information Technology graduate currently building my portfolio and expanding my skills through personal projects and hands-on experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Currently
+Building my GitHub portfolio
+Improving my web development and IT support skills
+Working on personal projects
+Looking for opportunities to start my career in IT
+📫 Let's Connect
+
+I'm open to entry-level IT, web development, and technical support opportunities.
+
+Thanks for visiting my profile! 🚀
